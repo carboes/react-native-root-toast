@@ -19,8 +19,9 @@
         "focus"
     ],
     "dependencies": {
+        "prop-types": "^15.5.10",
         "react-native-root-siblings": "^3.0.0",
-        "prop-types": "^15.5.10"
+        "react-native-root-toast": "https://github.com/carboes/react-native-root-toast/"
     },
     "peerDependencies": {
         "react-native": ">=0.47.0"
